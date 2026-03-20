@@ -1,5 +1,4 @@
 # Java SDET Learning Journey 
-# Java SDET Learning Journey
 
 28-day structured roadmap to master the Java ecosystem for SDET roles.
 
