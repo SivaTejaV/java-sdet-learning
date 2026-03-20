@@ -1,0 +1,14 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven compiled output
+target/
+
+# Java compiled files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
