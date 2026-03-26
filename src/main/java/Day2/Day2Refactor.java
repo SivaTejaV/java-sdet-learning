@@ -7,7 +7,7 @@ public class Day2Refactor {
 //        } else {
 //        	return "FAIL";
 //        }
-    	return result ? "PASS" : "FAIL";
+    	return result ? "PASS" : "FAIL";	
     }
     // Method 2 — takes responseTime, returns "FAST", "ACCEPTABLE" or "SLOW"
     public static String getSpeedLabel(int responseTime) {
